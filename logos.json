@@ -163,6 +163,10 @@
     "name": "Metaplane",
     "category": "Data Observability"
   },
+  "mixpanel": {
+    "name": "Mixpanel",
+    "category": "Product Analytics"
+  },
   "mode": {
     "name": "Mode",
     "category": "Business Intelligence"
